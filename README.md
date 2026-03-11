@@ -38,3 +38,4 @@ This extension:
 ## Disclaimer
 
 This tool is not affiliated with Eviivo and was built to automate internal workflows.
+# eviivo-invoice-converter-extension
