@@ -31,9 +31,8 @@ This extension:
 - DOM scraping
 - Currency conversion logic
 
-## Screenshots
 
-(Add screenshots here)
+
 
 ## Disclaimer
 
